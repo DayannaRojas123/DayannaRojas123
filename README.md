@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dayannarojas123.github.io/portafolio-daya/](https://dayannarojas123.github.io/portafolio-daya/)
 
-- 📫 How to reach me **rojasdahianna123@gmail.com**
+- 📫 How to reach me **rojasreydayanna@gmail.com**
 
 - 📄 Know about my experiences COEX [https://www.instagram.com/coex.ce/](https://www.instagram.com/coex.ce/)
 
