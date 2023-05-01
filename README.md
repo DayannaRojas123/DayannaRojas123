@@ -39,3 +39,5 @@
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=dayannarojas123&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=dayannarojas123&icon=7&color=4)](https://visitcount.itsvg.in)
