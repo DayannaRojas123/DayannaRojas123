@@ -38,6 +38,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dayannarojas123&theme=violet-punch" alt="dayannarojas123" /></p>
 
 
-![](https://github-contributor-stats.vercel.app/api?username=dayannarojas123&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
