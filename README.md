@@ -6,10 +6,11 @@
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/0c1319a831d089e9cdc2986216d0b276/tumblr_mpos50pvUl1ruikdfo1_500.gifv">
 
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDayannaRojas123&label=%F0%9F%8C%B9VISITORS%F0%9F%8C%B9&labelColor=%23d9e3f0&countColor=%23ba68c8&style=flat-square&labelStyle=upper)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dayannarojas123&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDayannaRojas123&label=%F0%9F%8C%B9VISITORS%F0%9F%8C%B9&labelColor=%23d9e3f0&countColor=%23ba68c8&style=flat-square&labelStyle=upper)
 
 - 🔭 I’m currently working on [Mi Denuncia](https://github.com/NicolasValanio/MiDenuncia)
 
