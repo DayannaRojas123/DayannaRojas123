@@ -5,9 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/0c1319a831d089e9cdc2986216d0b276/tumblr_mpos50pvUl1ruikdfo1_500.gifv">
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDayannaRojas123"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDayannaRojas123&label=%F0%9F%8C%B9VISITORS%F0%9F%8C%B9&labelColor=%D6A8FF&countColor=%E12CCE&style=flat-square&labelStyle=upper" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dayannarojas123&label=%F0%9F%8C%B9VISITORS%F0%9F%8C%B9&labelColor=%D6A8FF&countColor=%E12CCE&style=flat-square&labelStyle=upper" alt="dayannarojas123" /> </p>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDayannaRojas123&label=%F0%9F%8C%B9VISITORS%F0%9F%8C%B9&labelColor=%23d9e3f0&countColor=%23ba68c8&style=flat-square&labelStyle=upper)
 
 - 🔭 I’m currently working on [Mi Denuncia](https://github.com/NicolasValanio/MiDenuncia)
 
