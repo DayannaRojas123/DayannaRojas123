@@ -31,7 +31,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayannarojas123&show_icons=true&bg_color=5b14ff&locale=en&layout=compact" alt="dayannarojas123" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayannarojas123&show_icons=true&theme=rose&locale=en&layout=compact" alt="dayannarojas123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dayannarojas123&show_icons=true&theme=buefy&locale=en" alt="dayannarojas123" /></p>
 
