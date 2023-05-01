@@ -1,9 +1,11 @@
 ![MasterHead](https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)
 
 <h1 align="center">Hi 👋, I'm Dayanna Rojas</h1>
-<h3 align="center">❥ fullstacks software developer and systems student ❥</h3>
+<h3 align="center">❥ fullstacks developer and systems student ❥</h3>
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/0c1319a831d089e9cdc2986216d0b276/tumblr_mpos50pvUl1ruikdfo1_500.gifv">
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDayannaRojas123"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDayannaRojas123&label=%F0%9F%8C%B9VISITORS%F0%9F%8C%B9&labelColor=%232ccce4&countColor=%23ba68c8&style=flat-square&labelStyle=upper" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayannarojas123&label=Profile%20views&color=0e75b6&style=flat" alt="dayannarojas123" /> </p>
 
