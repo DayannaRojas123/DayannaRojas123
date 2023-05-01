@@ -7,7 +7,7 @@
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDayannaRojas123"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDayannaRojas123&label=%F0%9F%8C%B9VISITORS%F0%9F%8C%B9&labelColor=%D6A8FF&countColor=%E12CCE&style=flat-square&labelStyle=upper" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dayannarojas123&label=%F0%9F%8C%B9VISITORS%F0%9F%8C%B9&labelColor=%232ccce4&countColor=%23ba68c8&style=flat-square&labelStyle=upper" alt="dayannarojas123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dayannarojas123&label=%F0%9F%8C%B9VISITORS%F0%9F%8C%B9&labelColor=%D6A8FF&countColor=%E12CCE&style=flat-square&labelStyle=upper" alt="dayannarojas123" /> </p>
 
 - 🔭 I’m currently working on [Mi Denuncia](https://github.com/NicolasValanio/MiDenuncia)
 
