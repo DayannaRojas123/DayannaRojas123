@@ -38,3 +38,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dayannarojas123&theme=violet-punch" alt="dayannarojas123" /></p>
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dayannarojas123&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dayannarojas123&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dayannarojas123&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
