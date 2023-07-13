@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **rojasreydayanna@gmail.com**
 
-- 📄 Know about my experiences COEX [https://www.instagram.com/coex.ce/](https://www.instagram.com/coex.ce/)
+- 📄 Know about my experiences  [https://www.instagram.com/coex.ce/](https://www.instagram.com/coex.ce/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
