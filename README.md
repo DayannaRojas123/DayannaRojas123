@@ -16,9 +16,9 @@
 
 - 🤝 I am open to collaborate **with you**
 
-- 👨‍💻 All of my projects are available at [https://dayannarojas123.github.io/portafolio-daya/](https://dayannarojas123.github.io/portafolio-daya/)
+<!--- 👨‍💻 All of my projects are available at [https://dayannarojas123.github.io/portafolio-daya/](https://dayannarojas123.github.io/portafolio-daya/)-->
 
-- 📫 How to reach me **rojasreydayanna@gmail.com**
+- 📫 How to reach me **dayana7534@gmail.com**
 
 - 📄 Know about my experiences  [https://www.instagram.com/coex.ce/](https://www.instagram.com/coex.ce/)
 
