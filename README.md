@@ -1,9 +1,12 @@
-![MasterHead](https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)
+
+ <p align="center">
+  <img src="https://media.istockphoto.com/id/1927338980/es/vector/configuraci%C3%B3n-de-la-sala-de-juegos-y-streaming.jpg?s=612x612&w=0&k=20&c=ycy8UWLFBUN8ZsQiuXaQKX8rzhzkbmu9Kchv6Vex1U4=" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Dayanna Rojas</h1>
 <h3 align="center">❥ developer and systems student ❥</h3>
 
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/0c1319a831d089e9cdc2986216d0b276/tumblr_mpos50pvUl1ruikdfo1_500.gifv">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif">
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDayannaRojas123&label=%F0%9F%8C%B9VISITORS%F0%9F%8C%B9&labelColor=%23d9e3f0&countColor=%23ba68c8&style=flat-square&labelStyle=upper)
